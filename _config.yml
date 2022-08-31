@@ -1,18 +1,18 @@
 title: Sungeun kim
 subtitle: (김성은, @sekimsekim)
-face: /assets/img/ss.jpg
+face: /assets/img/se.png
 #cv: https://drive.google.com/open?id=1F7MZsD-iwhFz8DN0bYuW8SMkeADGRj3H
 cv: /assets/cv.pdf
 description: Ph.D student in CSE at Seoul National University
 location: Seoul, Korea
-email: joonil AT vision.snu.ac.kr
-homepage: https://joonil7.github.io
-github: https://github.com/joonil7
+email: sekim AT vision.snu.ac.kr
+homepage: https://sekimsekim.github.io
+github: https://github.com/sekimsekim
 #linkedin: https://www.linkedin.com/in/byeongchang-kim-64b3b9123/
 google_analytics: UA-146496389-1
 theme: jekyll-theme-minimal
-google_scholar: https://scholar.google.com/citations?user=KwvSFE0AAAAJ&hl=en&oi=ao
-semantic_scholar: https://www.semanticscholar.org/author/Joonil-Na/35272603
+# google_scholar: https://scholar.google.com/citations?user=KwvSFE0AAAAJ&hl=en&oi=ao
+# semantic_scholar: https://www.semanticscholar.org/author/Joonil-Na/35272603
 
 plugins:
   - jekyll-seo-tag
